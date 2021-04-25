@@ -19,9 +19,9 @@
 
 <h3> 👀 Formas de Contatos </h3>
 
+[![Website](https://img.shields.io/website?color=green&logo=Website&style=plastic&up_message=devopssolution.cloud&url=http%3A%2F%2Fdevopssolution.cloud%2F)](https://devopssolution.cloud)
 
-<a>![Website](https://img.shields.io/website?color=green&logo=Website&style=plastic&up_message=devopssolution.cloud&url=http%3A%2F%2Fdevopssolution.cloud%2F)</a>
-</p>
+[![Twitter](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fezzio-moreira-89587898%2F)](https://www.linkedin.com/in/ezzio-moreira-89587898/)
 
 <!--
 **EzzioMoreira/EzzioMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
