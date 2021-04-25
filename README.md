@@ -17,7 +17,7 @@
 [![EzzioMoreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&show_icons=true)](https://github.com/EzzioMoreira)
 
 
-<h3> 👀 Formas de Contatos </h3>
+<h3> 👀 Contatos 👀 </h3>
 
 [![Website](https://img.shields.io/website?color=green&logo=Website&style=plastic&up_message=devopssolution.cloud&url=http%3A%2F%2Fdevopssolution.cloud%2F)](https://devopssolution.cloud)
 
