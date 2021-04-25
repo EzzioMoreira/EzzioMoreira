@@ -19,8 +19,7 @@
 
 <h3> 👀 Formas de Contatos </h3>
 
-<p align="center">
-<a href="![Website](https://img.shields.io/website?color=green&logo=Website&style=plastic&up_message=devopssolution.cloud&url=http%3A%2F%2Fdevopssolution.cloud%2F)></a>
+![Website](https://img.shields.io/website?color=green&logo=Website&style=plastic&up_message=devopssolution.cloud&url=http%3A%2F%2Fdevopssolution.cloud%2F)></a>
 </p>
 
 <!--
