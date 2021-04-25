@@ -20,9 +20,7 @@
 <h3> 👀 Formas de Contatos </h3>
 
 <p align="center">
-<a href="http://devopssolution.cloud/><img alt="Website" src="https://img.shields.io/badge/Website-EzzioMoreira-blue?style=flat-square&logo=firefox"></a>
-<a href="https://www.linkedin.com/in/ezzio-moreira-89587898/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Brito%20Gomes-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:me@gomex.me"><img alt="Email" src="https://img.shields.io/badge/Email-me@gomex.me-blue?style=flat-square&logo=gmail"></a>
+<a href="![Website](https://img.shields.io/website?color=green&logo=Website&style=plastic&up_message=devopssolution.cloud&url=http%3A%2F%2Fdevopssolution.cloud%2F)></a>
 </p>
 
 <!--
