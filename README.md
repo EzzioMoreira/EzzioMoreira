@@ -9,7 +9,7 @@
 
 <h3>🛠 Tecnologias </h3>
 
-- 💻 &nbsp; Linux | Ansible | Docker | AWS | Zabbix | Prometheus | Graylog 
+- 💻 &nbsp; Linux | Ansible | Docker | AWS | Zabbix | Prometheus | Graylog | Terraform
 - 🛢 &nbsp; MySQL | MSSQL | AWS DynamoDB
 
 <br/>
