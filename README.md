@@ -9,8 +9,8 @@
 
 <h3>🛠 Tecnologias </h3>
 
-- 💻 &nbsp; Linux | Ansible | Docker | AWS | Zabbix | Prometheus | Graylog | Terraform
-- 🛢 &nbsp; MySQL | MSSQL | AWS DynamoDB
+- 💻 &nbsp; Skills: DevOps | IAC | Terraform | Observability/Monitoring | Ansible | Packer | Vault | Pipeline | Docker
+- 🛢 &nbsp; MySQL | MSSQL | AWS DynamoDB | RDS
 
 <br/>
 
