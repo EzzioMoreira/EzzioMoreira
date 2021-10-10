@@ -10,11 +10,11 @@
 <h3>🛠 Tecnologias </h3>
 - 💻 &nbsp; Skills: DevOps | IAC | Terraform | Observability/Monitoring | Ansible | Packer | Vault | Pipeline | Docker | AWS
 
+### 📈 Stats 
 <br/>
-[![EzzioMoreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&show_icons=true)](https://github.com/EzzioMoreira)
+[![EzzioMoreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&theme=cobalt&show_icons=true)](https://github.com/EzzioMoreira)
 
 <h3> 👀 Contatos 👀 </h3>
-
 [![Twitter](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fezzio-moreira-89587898%2F)](https://www.linkedin.com/in/ezzio-moreira-89587898/)
 
 <!--
