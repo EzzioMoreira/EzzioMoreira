@@ -1,4 +1,4 @@
-<h2>Meu nome é Ezzio Moreira 👋</h2>
+<h2>Eu sou Ezzio Moreira 👋</h2>
 
 <h3> Sobre :no_good: </h3>
 
@@ -8,18 +8,12 @@
 - 💟 &nbsp; Adoro uma cerveja artesanal e um FPS nas horas vagas. 
 
 <h3>🛠 Tecnologias </h3>
-
-- 💻 &nbsp; Skills: DevOps | IAC | Terraform | Observability/Monitoring | Ansible | Packer | Vault | Pipeline | Docker
-- 🛢 &nbsp; MySQL | MSSQL | AWS DynamoDB | RDS
+- 💻 &nbsp; Skills: DevOps | IAC | Terraform | Observability/Monitoring | Ansible | Packer | Vault | Pipeline | Docker | AWS
 
 <br/>
-
 [![EzzioMoreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&show_icons=true)](https://github.com/EzzioMoreira)
 
-
 <h3> 👀 Contatos 👀 </h3>
-
-[![Website](https://img.shields.io/website?color=green&logo=Website&style=plastic&up_message=devopssolution.cloud&url=http%3A%2F%2Fdevopssolution.cloud%2F)](https://devopssolution.cloud)
 
 [![Twitter](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fezzio-moreira-89587898%2F)](https://www.linkedin.com/in/ezzio-moreira-89587898/)
 
