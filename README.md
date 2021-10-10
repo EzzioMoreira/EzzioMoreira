@@ -1,33 +1,23 @@
-<h2>Eu sou Ezzio Moreira 👋</h2>
+<h1 align="center">
+Welcome I'm Ezzio Moreira 👋👋👋
+</h1>
 
-<h3> Sobre :no_good: </h3>
+### About me!!!
 
-- 👨🏻‍💻 &nbsp; Adepto da cultura DevOps e Infra Ágil.
-- 💼 &nbsp; Atualmente trabalho como Analista de Infraestrutura na [Omnilink](https://www.omnilink.com.br).
-- 🌱 &nbsp; Estou apredendo IaC, Arquitetura cloud e Desenvolvimento de Software.
-- 💟 &nbsp; Adoro uma cerveja artesanal e um FPS nas horas vagas. 
+- 👨🏻‍💻 &nbsp; Adept at DevOps and Infra Agile culture.
+- 💼 &nbsp; I currently work as an Infrastructure Analyst at [Omnilink](https://www.omnilink.com.br).
+- 🌱 &nbsp; I'm learning IaC, Cloud Architecture and Software Development.
+- 💟 &nbsp; I love craft beer and an FPS in my spare time. 
 
-<h3>🛠 Tecnologias </h3>
+### 🛠 Technologies:
 - 💻 &nbsp; Skills: DevOps | IAC | Terraform | Observability/Monitoring | Ansible | Packer | Vault | Pipeline | Docker | AWS
 
 ### 📈 Stats 
-<br/>
 [![EzzioMoreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&theme=cobalt&show_icons=true)](https://github.com/EzzioMoreira)
 
-<h3> 👀 Contatos 👀 </h3>
-[![Twitter](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fezzio-moreira-89587898%2F)](https://www.linkedin.com/in/ezzio-moreira-89587898/)
+### 💡  Languages
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzzioMoreira&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
-<!--
-**EzzioMoreira/EzzioMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👀 Contatos 👀 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezzio-moreira-89587898/)](https://www.linkedin.com/in/ezzio-moreira-89587898/)
+<hr>
