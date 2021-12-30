@@ -5,9 +5,7 @@ Welcome I'm Ezzio Moreira 👋👋👋
 ### About me!!!
 
 - 👨🏻‍💻 &nbsp; Adept at DevOps and Infra Agile culture.
-- 💼 &nbsp; I currently work as an Infrastructure Analyst at [Omnilink](https://www.omnilink.com.br).
-- 🌱 &nbsp; I'm learning IaC, Cloud Architecture and Software Development.
-- 💟 &nbsp; I love craft beer and an FPS in my spare time. 
+- 💼 &nbsp; I currently work as an SRE at [Pagar.me](https://pagar.me).
 
 ### 🛠 Technologies:
 - 💻 &nbsp; Skills: DevOps | IAC | Terraform | Observability/Monitoring | Ansible | Packer | Vault | Pipeline | Docker | AWS
