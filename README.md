@@ -16,6 +16,6 @@ Welcome I'm Ezzio Moreira 👋👋👋
 ### 💡  Languages
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzzioMoreira&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
-### 👀 Contatos 👀 
+### 👀 Contact 👀 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezzio-moreira-89587898/)](https://www.linkedin.com/in/ezzio-moreira-89587898/)
 <hr>
