@@ -4,11 +4,11 @@ Welcome I'm Ezzio Moreira 👋👋👋
 
 ### About me!!!
 
-- 👨🏻‍💻 &nbsp; Adept at DevOps and Infra Agile culture.
+- 👨🏻‍💻 &nbsp; Adept at DevOps.
 - 💼 &nbsp; I currently work as an SRE at [Pagar.me](https://pagar.me).
 
 ### 🛠 Technologies:
-- 💻 &nbsp; Skills: DevOps | IAC | Terraform | Observability/Monitoring | Ansible | Packer | Vault | Pipeline | Docker | AWS
+- 💻 &nbsp; Skills: DevOps | K8S | IAC | Terraform | Observability/Monitoring | Packer | Vault | Pipeline | AWS
 
 ### 📈 Stats 
 [![EzzioMoreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&theme=cobalt&show_icons=true)](https://github.com/EzzioMoreira)
