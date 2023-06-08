@@ -20,5 +20,5 @@ Welcome I'm Ezzio Moreira 👋👋👋
 ### 👀 Contact 👀 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezzio-moreira-89587898/)](https://www.linkedin.com/in/ezzio-moreira-89587898/)
 
-![Snake animation](https://github.com/seu-usuário-aqui/EzzioMoreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EzzioMoreira/EzzioMoreira/blob/output/github-contribution-grid-snake.svg)
 <hr>
