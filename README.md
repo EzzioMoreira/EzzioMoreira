@@ -10,6 +10,7 @@ Welcome I'm Ezzio Moreira 👋👋👋
   - [DevOps days Fortaleza](https://devopsdays.org/).
   - [Mentoria DevOps](http://mentoriadevops.io/).
   - [DevOps Ceará](https://www.instagram.com/meetupdevopsce/).
+  - [Dose na Nuvem](https://github.com/dose-na-nuvem).
 
 ### 🛠 Technologies:
 - 💻 &nbsp; Skills: DevOps | K8S | IAC | Terraform | Observability/Monitoring | Policy-as-Code | Pipeline | AWS | Azure | GCP |
