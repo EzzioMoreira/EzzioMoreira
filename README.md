@@ -4,13 +4,14 @@ Welcome I'm Ezzio Moreira 👋👋👋
 
 ### About me!!!
 
-- 💼 &nbsp; I currently work as an SRE at [Pagar.me](https://pagar.me).
-- 🌱 I’m currently learning about python, observability and OpenTelemetry.
-- 👯 I’m collaborate on:
+- 💼 &nbsp; I currently work as a DevOps/SRE at [Dr. Cash](https://www.drcash.com.br/).
+- 🌱 I’m currently learning about Python, observability, and OpenTelemetry.
+- 👯 I’m collaborating on:
   - [DevOps days Fortaleza](https://devopsdays.org/).
   - [Mentoria DevOps](http://mentoriadevops.io/).
   - [DevOps Ceará](https://www.instagram.com/meetupdevopsce/).
   - [Dose na Nuvem](https://github.com/dose-na-nuvem).
+  - [Zero Emission World](https://www.zew.world)
 
 ### 🛠 Technologies:
 - 💻 &nbsp; Skills: DevOps | K8S | IAC | Terraform | Observability/Monitoring | Policy-as-Code | Pipeline | AWS | Azure | GCP |
