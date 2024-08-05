@@ -4,7 +4,7 @@ Welcome I'm Ezzio Moreira 👋👋👋
 
 ### About me!!!
 
-- 💼 &nbsp; I currently work as a DevOps/SRE at [Dr. Cash](https://www.drcash.com.br/).
+- 💼 &nbsp; I currently work as a SRE at [PicPay](https://picpay.com/).
 - 🌱 I’m currently learning about Python, observability, and OpenTelemetry.
 - 👯 I’m collaborating on:
   - [DevOps days Fortaleza](https://devopsdays.org/).
@@ -14,7 +14,7 @@ Welcome I'm Ezzio Moreira 👋👋👋
   - [Zero Emission World](https://www.zew.world)
 
 ### 🛠 Technologies:
-- 💻 &nbsp; Skills: DevOps | K8S | IAC | Terraform | Observability/Monitoring | Policy-as-Code | Pipeline | AWS | Azure | GCP |
+- 💻 &nbsp; Skills: DevOps | K8S | IAC | Terraform | OpenTelemetry | Observability/Monitoring | Policy-as-Code | Pipeline | AWS |
 
 ### 📈 Stats 
 [![EzzioMoreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&theme=cobalt&show_icons=true)](https://github.com/EzzioMoreira)
