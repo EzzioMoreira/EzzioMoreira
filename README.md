@@ -1,33 +1,43 @@
 <h1 align="center">
-Welcome I'm Ezzio Moreira 👋👋👋
+Welcome! I'm Ezzio Moreira 👋👋👋
 </h1>
 
-### About me!!!
+<p align="center">
+  <em>SRE at <a href="https://picpay.com/">PicPay</a> | SIG OpenTelemetry Communications | Platform Engineering Enthusiast</em>
+</p>
 
-- 💼 &nbsp; I currently work as a SRE at [PicPay](https://picpay.com/).
-- 🌱 I’m currently learning about Python, observability, and OpenTelemetry.
-- 👯 I’m collaborating on:
-  - [DevOps days Fortaleza](https://devopsdays.org/).
-  - [Mentoria DevOps](http://mentoriadevops.io/).
+### 🙋‍♂️ About Me:
+
+- 💼 &nbsp; Currently working as an **SRE** at [PicPay](https://picpay.com/).
+- 🔍 &nbsp; **Special Interests:** Observability, OpenTelemetry, SRE best practices, and platform automation.
+- 🌱 &nbsp; Currently learning: **Python**, **observability**, and **OpenTelemetry**.
+- 💬 &nbsp; Active contributor to:
+  - [DevOps Days Fortaleza](https://devopsdays.org/).
   - [DevOps Ceará](https://www.instagram.com/meetupdevopsce/).
-  - [Dose na Nuvem](https://github.com/dose-na-nuvem).
-  - [Zero Emission World](https://www.zew.world)
+  - [Zero Emission World](https://www.zew.world).
+  - [SIG OpenTelemetry Communications](https://opentelemetry.io/)
 
-### 🛠 Technologies:
-- 💻 &nbsp; Skills: DevOps | K8S | IAC | Terraform | OpenTelemetry | Observability/Monitoring | Policy-as-Code | Pipeline | AWS |
+### 🛠️ Technologies & Tools:
+- 💻 &nbsp; **Core Skills:** 
+  - DevOps | Kubernetes | Terraform | Observability/Monitoring | Policy-as-Code | AWS | CI/CD Pipelines
+ 
+### 📊 GitHub Contributions Summary:
 
-### 📈 Stats 
-[![EzzioMoreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&theme=cobalt&show_icons=true)](https://github.com/EzzioMoreira)
+![Ezzio Moreira's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzzioMoreira&theme=github_dark)
 
-### 💡  Languages
+
+### 🏆 GitHub Stats:
+[![Ezzio Moreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&theme=cobalt&show_icons=true)](https://github.com/EzzioMoreira)
+
+### 📈 Most Used Languages:
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzzioMoreira&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
-### 👀 Contact 👀 
+### 🌍 Open Source Contributions:
+- Contributed to the [OpenTelemetry Project](https://github.com/open-telemetry/opentelemetry-go).
+- Co-organizer of [DevOps Days Fortaleza](https://devopsdays.org/).
+- Mentorship at [Mentoria DevOps](http://mentoriadevops.io/).
+
+### 👀 Contact Me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezzio-moreira-89587898/)](https://www.linkedin.com/in/ezzio-moreira-89587898/)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EzzioMoreira/EzzioMoreira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EzzioMoreira/EzzioMoreira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EzzioMoreira/EzzioMoreira/output/github-contribution-grid-snake.svg">
-</picture>
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/EzzioMoreira)](https://github.com/EzzioMoreira)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ezzio_moreira)](https://twitter.com/ezzio_moreira)
