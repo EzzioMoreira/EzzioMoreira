@@ -1,5 +1,22 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p>
+    <a href="https://www.linkedin.com/in/ezzio-moreira-89587898/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/EzzioMoreira">
+      <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/ezzio_moreira">
+      <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" />
+    </a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=EzzioMoreira&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 <h1 align="center">
-Welcome! I'm Ezzio Moreira 👋👋👋
+Welcome! I'm Ezzio Moreira
 </h1>
 
 <p align="center">
@@ -24,7 +41,6 @@ Welcome! I'm Ezzio Moreira 👋👋👋
 ### 📊 GitHub Contributions Summary:
 
 ![Ezzio Moreira's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzzioMoreira&theme=github_dark)
-
 
 ### 🏆 GitHub Stats:
 [![Ezzio Moreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzzioMoreira&theme=cobalt&show_icons=true)](https://github.com/EzzioMoreira)
